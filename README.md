@@ -364,7 +364,5 @@ Design Tokens和设计系统工具让设计与开发更好协作。
   <h3>如果这个项目对你有帮助，请给个 ⭐️ 吧！</h3>
   <p>If this project helps you, please give it a ⭐️!</p>
   
-  <p><strong>最后更新：2024年8月</strong></p>
-  
   **[⬆ 回到顶部](#-awesome-web-tools)**
 </div>
